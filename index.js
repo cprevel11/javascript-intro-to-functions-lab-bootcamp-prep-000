@@ -23,5 +23,4 @@ function sayHiToGrandma(string) {
   console.log("I love you too");
  } else {return "I can't hear you!" ;
  }
-  
 }
